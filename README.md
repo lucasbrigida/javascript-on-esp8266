@@ -17,6 +17,8 @@ A tutorial for flashing the JavaScript  on ESP8266 based boards
 - ["ESPTool"](https://github.com/themadinventor/esptool)
 
 # Content Sources
-[](http://crufti.com/getting-started-with-espruino-on-esp8266/)
-[](http://learn.acrobotic.com/tutorials/post/esp8266-javascript-programming-using-espruino)
-[](http://www.espruino.com/ESP8266_Flashing)
+- ["http://crufti.com/getting-started-with-espruino-on-esp8266/"](http://crufti.com/getting-started-with-espruino-on-esp8266/)
+
+- ["http://learn.acrobotic.com/tutorials/post/esp8266-javascript-programming-using-espruino"](http://learn.acrobotic.com/tutorials/post/esp8266-javascript-programming-using-espruino)
+
+- ["http://www.espruino.com/ESP8266_Flashing"](http://www.espruino.com/ESP8266_Flashing)
